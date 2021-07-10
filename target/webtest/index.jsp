@@ -1,6 +1,6 @@
 <html>
 <body>
-<h2>Surjeet Chaudhary</h2>
-<h2>Testing Github</h2>
+<h1>Surjeet Chaudhary</h1>
+<h2>Automation Testing</h2>
 </body>
 </html>
